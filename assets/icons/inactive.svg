@@ -1,0 +1,44 @@
+<svg width="158" height="158" viewBox="0 0 158 158" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <filter id="filter0_d_16206:68901" x="0.314453" y="0.462891" width="157.176"
+            height="157.176" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feColorMatrix in="SourceAlpha" type="matrix"
+                values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
+            <feOffset dy="4" />
+            <feGaussianBlur stdDeviation="11" />
+            <feComposite in2="hardAlpha" operator="out" />
+            <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.11 0" />
+            <feBlend mode="normal" in2="BackgroundImageFix"
+                result="effect1_dropShadow_16206:68901" />
+            <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_16206:68901"
+                result="shape" />
+        </filter>
+        <filter id="filter1_d_16206:68901" x="26.2949" y="26.4419" width="105.217" height="105.218"
+            filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feColorMatrix in="SourceAlpha" type="matrix"
+                values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
+            <feOffset dy="4" />
+            <feGaussianBlur stdDeviation="5.5" />
+            <feComposite in2="hardAlpha" operator="out" />
+            <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.11 0" />
+            <feBlend mode="normal" in2="BackgroundImageFix"
+                result="effect1_dropShadow_16206:68901" />
+            <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_16206:68901"
+                result="shape" />
+        </filter>
+    </defs>
+    <g filter="url(#filter0_d_16206:68901)">
+        <circle cx="78.9024" cy="75.0509" r="56.588" fill="#DAE2FF" />
+    </g>
+    <g filter="url(#filter1_d_16206:68901)">
+        <circle cx="78.9037" cy="75.0507" r="41.6088" fill="#EBEFFF" />
+    </g>
+    <path
+        d="M78.5684 88.4895C75.3159 88.4941 72.1663 87.349 69.6761 85.2566C67.1858 83.1643 65.5151 80.2592 64.959 77.0545C64.4029 73.8498 64.9971 70.5517 66.6368 67.7427C68.2765 64.9336 70.8561 62.7944 73.9201 61.7028C74.0912 61.6416 74.2728 61.6149 74.4543 61.6241C74.6358 61.6333 74.8137 61.6783 74.9777 61.7565C75.1418 61.8347 75.2888 61.9445 75.4103 62.0797C75.5318 62.2149 75.6253 62.3727 75.6856 62.5442C75.8056 62.8864 75.786 63.262 75.6311 63.5898C75.4763 63.9177 75.1985 64.1713 74.858 64.296C72.4046 65.1646 70.3372 66.8724 69.0211 69.1177C67.7049 71.363 67.2248 74.0013 67.6655 76.5663C68.1061 79.1314 69.4393 81.4581 71.4293 83.1354C73.4194 84.8127 75.9382 85.7326 78.5408 85.7326C81.1435 85.7326 83.6623 84.8127 85.6524 83.1354C87.6424 81.4581 88.9755 79.1314 89.4162 76.5663C89.8569 74.0013 89.3767 71.363 88.0606 69.1177C86.7445 66.8724 84.6771 65.1646 82.2237 64.296C82.0457 64.2415 81.8805 64.1515 81.7382 64.0315C81.5959 63.9115 81.4793 63.7639 81.3955 63.5977C81.3118 63.4314 81.2625 63.2499 81.2508 63.0641C81.239 62.8783 81.265 62.6921 81.3271 62.5166C81.3874 62.3451 81.481 62.1873 81.6024 62.0521C81.7239 61.9169 81.8709 61.8071 82.035 61.7289C82.199 61.6507 82.3769 61.6057 82.5585 61.5965C82.74 61.5873 82.9215 61.614 83.0927 61.6752C86.1661 62.7494 88.7605 64.8762 90.4168 67.6791C92.0731 70.4821 92.6845 73.7806 92.1428 76.991C91.6011 80.2014 89.9413 83.1167 87.457 85.2211C84.9728 87.3254 81.8242 88.4832 78.5684 88.4895Z"
+        fill="#4776F0" />
+    <path
+        d="M78.5688 76.0765C78.203 76.0765 77.8521 75.9312 77.5935 75.6725C77.3348 75.4138 77.1895 75.063 77.1895 74.6972V62.2831C77.1895 61.9173 77.3348 61.5665 77.5935 61.3078C77.8521 61.0491 78.203 60.9038 78.5688 60.9038C78.9346 60.9038 79.2855 61.0491 79.5441 61.3078C79.8028 61.5665 79.9481 61.9173 79.9481 62.2831V74.6972C79.9481 75.063 79.8028 75.4138 79.5441 75.6725C79.2855 75.9312 78.9346 76.0765 78.5688 76.0765Z"
+        fill="#4776F0" />
+</svg>

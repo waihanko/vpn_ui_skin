@@ -1,0 +1,49 @@
+<svg width="158" height="158" viewBox="0 0 158 158" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <filter id="filter0_d_16330:67682" x="0.314453" y="0" width="157.176" height="157.176"
+            filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feColorMatrix in="SourceAlpha" type="matrix"
+                values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
+            <feOffset dy="4" />
+            <feGaussianBlur stdDeviation="11" />
+            <feComposite in2="hardAlpha" operator="out" />
+            <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.11 0" />
+            <feBlend mode="normal" in2="BackgroundImageFix"
+                result="effect1_dropShadow_16330:67682" />
+            <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_16330:67682"
+                result="shape" />
+        </filter>
+        <filter id="filter1_d_16330:67682" x="26.2949" y="25.979" width="105.217" height="105.218"
+            filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feColorMatrix in="SourceAlpha" type="matrix"
+                values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
+            <feOffset dy="4" />
+            <feGaussianBlur stdDeviation="5.5" />
+            <feComposite in2="hardAlpha" operator="out" />
+            <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.11 0" />
+            <feBlend mode="normal" in2="BackgroundImageFix"
+                result="effect1_dropShadow_16330:67682" />
+            <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_16330:67682"
+                result="shape" />
+        </filter>
+        <linearGradient id="paint0_linear_16330:67682" x1="78.9037" y1="32.979" x2="78.9037"
+            y2="116.197" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#4776F0" />
+            <stop offset="1" stop-color="#033DD2" />
+        </linearGradient>
+    </defs>
+    <g filter="url(#filter0_d_16330:67682)">
+        <circle cx="78.9024" cy="74.588" r="56.588" fill="#C8D4FF" />
+    </g>
+    <g filter="url(#filter1_d_16330:67682)">
+        <circle cx="78.9037" cy="74.5878" r="41.6088" fill="url(#paint0_linear_16330:67682)" />
+    </g>
+    <path
+        d="M78.5684 88.0281C75.3159 88.0326 72.1663 86.8876 69.6761 84.7952C67.1858 82.7029 65.5151 79.7978 64.959 76.5931C64.4029 73.3884 64.9971 70.0903 66.6368 67.2812C68.2765 64.4722 70.8561 62.333 73.9201 61.2414C74.0912 61.1802 74.2728 61.1534 74.4543 61.1627C74.6358 61.1719 74.8137 61.2169 74.9777 61.2951C75.1418 61.3732 75.2888 61.4831 75.4103 61.6183C75.5318 61.7535 75.6253 61.9113 75.6856 62.0828C75.8056 62.4249 75.786 62.8006 75.6311 63.1284C75.4763 63.4563 75.1985 63.7099 74.858 63.8345C72.4046 64.7032 70.3372 66.411 69.0211 68.6563C67.7049 70.9016 67.2248 73.5399 67.6655 76.1049C68.1061 78.6699 69.4393 80.9967 71.4293 82.674C73.4194 84.3513 75.9382 85.2712 78.5408 85.2712C81.1435 85.2712 83.6623 84.3513 85.6524 82.674C87.6424 80.9967 88.9755 78.6699 89.4162 76.1049C89.8569 73.5399 89.3767 70.9016 88.0606 68.6563C86.7445 66.411 84.6771 64.7032 82.2237 63.8345C82.0457 63.78 81.8805 63.6901 81.7382 63.5701C81.5959 63.4501 81.4793 63.3025 81.3955 63.1363C81.3118 62.97 81.2625 62.7885 81.2508 62.6027C81.239 62.4169 81.265 62.2307 81.3271 62.0552C81.3874 61.8837 81.481 61.7259 81.6024 61.5907C81.7239 61.4555 81.8709 61.3457 82.035 61.2675C82.199 61.1893 82.3769 61.1443 82.5585 61.1351C82.74 61.1259 82.9215 61.1526 83.0927 61.2138C86.1661 62.288 88.7605 64.4147 90.4168 67.2177C92.0731 70.0207 92.6845 73.3192 92.1428 76.5296C91.6011 79.74 89.9413 82.6553 87.457 84.7597C84.9728 86.864 81.8242 88.0218 78.5684 88.0281Z"
+        fill="white" />
+    <path
+        d="M78.5688 75.6136C78.203 75.6136 77.8521 75.4683 77.5935 75.2096C77.3348 74.951 77.1895 74.6001 77.1895 74.2343V61.8203C77.1895 61.4544 77.3348 61.1036 77.5935 60.8449C77.8521 60.5862 78.203 60.4409 78.5688 60.4409C78.9346 60.4409 79.2855 60.5862 79.5441 60.8449C79.8028 61.1036 79.9481 61.4544 79.9481 61.8203V74.2343C79.9481 74.6001 79.8028 74.951 79.5441 75.2096C79.2855 75.4683 78.9346 75.6136 78.5688 75.6136Z"
+        fill="white" />
+</svg>
